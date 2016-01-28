@@ -1,2 +1,2 @@
-# drush_qc
+# dwqc
 Ansible based Drush QC plugin
